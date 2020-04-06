@@ -1,0 +1,4 @@
+googletrans==2.4.0
+requests==2.21.0
+telegram==0.0.1
+python-telegram-bot==12.5.1
